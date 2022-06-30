@@ -1,0 +1,4 @@
+需要数据库 tb_user
+需要页面 登录页面 login.jsp
+首页 index.jsp
+3.后台实现 登录 注册
